@@ -216,6 +216,29 @@ h4 {
   margin: 0 auto;
 }
  
+.footer-distributed {
+  display: absolute;
+  margin: 0px auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  width: 650px;
+  color: black;
+}
+
+
+
+
+
+.footer-left {
+  color: black;
+  font-size: 13px;
+ 
+}
+
+.Icons {
+  Color: #49B8ED;
+}
+
 
 
 
